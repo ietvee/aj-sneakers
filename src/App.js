@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <Router>
-      <div className="App px-3 py-2">
+      <div className="App p-2">
         <Main />
         <Nav />
         <Switch>

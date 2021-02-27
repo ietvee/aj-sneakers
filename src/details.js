@@ -10,7 +10,7 @@ function Details() {
   return (
     <>
       <div className="px-3">
-        <div className="flex flex-wrap gap-8 justify-center my-2 mx-2 overflow-hidden pb-6 pt-6 rounded-lg w-full">
+        <div className="flex flex-wrap gap-8 justify-center  overflow-hidden pb-6 pt-6 rounded-lg w-full">
           <div className="rounded bg-white border-gray-200 shadow-md overflow-hidden relative">
             <img
               src={snkr1}
