@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a single page website with contents of shoes. Tailwind CSS is used for the design of the website.
 
 ## Available Scripts
 
