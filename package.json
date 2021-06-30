@@ -3,7 +3,7 @@
   "less.validate": false,
   "scss.validate": false,
   "name": "portfolio",
-  "homepage": ".",
+  "homepage": "https://ietvee.github.io/aj-sneakers/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
