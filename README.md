@@ -2,6 +2,9 @@
 
 This is a single page web application with contents of shoes. This is styled by Tailwind.
 
+### **Disclaimer**
+
+This project is developed with the intention of self-learning purpose and is developed by exploring online resources/materials from various learning platforms.
 
 --------
 
