@@ -18,10 +18,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 1</span>
+              <span className="font-bold">sneaker 1</span>
             </div>
             <div className="flex justify-center m-1">
-              <span>Senaker 1</span>
+              <span>sneaker 1</span>
             </div>
           </div>
 
@@ -32,10 +32,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 2</span>
+              <span className="font-bold">sneaker 2</span>
             </div>
             <div className="flex justify-center m-1 ">
-              <span>Senaker 2</span>
+              <span>sneaker 2</span>
             </div>
           </div>
 
@@ -46,10 +46,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 3</span>
+              <span className="font-bold">sneaker 3</span>
             </div>
             <div className="flex justify-center m-1">
-              <span>Senaker 3</span>
+              <span>sneaker 3</span>
             </div>
           </div>
 
@@ -60,10 +60,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 4</span>
+              <span className="font-bold">sneaker 4</span>
             </div>
             <div className="flex justify-center m-1">
-              <span>Senaker 4</span>
+              <span>sneaker 4</span>
             </div>
           </div>
 
@@ -74,10 +74,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 5</span>
+              <span className="font-bold">sneaker 5</span>
             </div>
             <div className="flex justify-center m-1">
-              <span>Senaker 5</span>
+              <span>sneaker 5</span>
             </div>
           </div>
 
@@ -88,10 +88,10 @@ function Details() {
               className="h-4/5 object-bottom object-cover w-full"
             />
             <div className="flex justify-center m-1 pt-8">
-              <span className="font-bold">Senaker 6</span>
+              <span className="font-bold">sneaker 6</span>
             </div>
             <div className="flex justify-center m-1">
-              <span>Senaker 6</span>
+              <span>sneaker 6</span>
             </div>
           </div>
         </div>
