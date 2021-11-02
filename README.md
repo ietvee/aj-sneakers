@@ -1,7 +1,17 @@
-# Getting Started with Create React App
+# AJ Sneakers
+
+This is a single page web application with contents of shoes. This is styled by Tailwind.
+
+### **Disclaimer**
+
+This project is developed with the intention of self-learning purpose and is developed by exploring online resources/materials from various learning platforms.
+
+--------
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It is a single page website with contents of shoes. Tailwind CSS is used for the design of the website.
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
